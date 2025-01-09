@@ -1,0 +1,1 @@
+This error typically occurs when you're using Expo's `Camera` API and haven't properly configured the necessary permissions.  The app might be requesting camera permission but not handling the permission request result correctly or the permissions might not be added in the app.json file. 
